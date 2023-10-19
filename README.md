@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @davidpcg01
-- 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m currently a Dual Master's Degree student in Data Science & Analytics and Petroleum Engineering at the University of Oklahoma
-- 💞️ I’m looking to collaborate on Predictive analysis projects, data visualization projects, Machine learning application to subsurface processes
+- 👋 Hi, I’m David
+- 👀 I’m interested in Data Science, Data Engineering, Machine Learning and Software Development
+- 🌱 I hold a Master's Degree in Data Science & Analytics from the University of Oklahoma, and my work experience has spanned Big Tech, Energy and Supply Chain
+- 💞️ I’m looking to collaborate on Predictive and Prescriptive Analytics problems and AI product development
 - 📫 How to reach me https://www.linkedin.com/in/david-nnamdi
 
 <!---
